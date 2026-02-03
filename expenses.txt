@@ -1,0 +1,4 @@
+350,specs,frame of specs from shop
+40,momo,steam momo
+2000,food,order 4 pijjas
+400,phone,glass of phone
